@@ -18,7 +18,6 @@ I'm a Computer Science student and a developer building intuitive, useful, and m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" alt="MSSQL" width="40" height="40"/>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Tux" width="40" height="40"/>
 
 </p>
